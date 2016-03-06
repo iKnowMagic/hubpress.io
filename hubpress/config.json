@@ -2,6 +2,7 @@
   "meta": {
     "username": "iknowmagic",
     "repositoryName": "hubpress.io",
+    "cname":"http://hubpress.iknowmagic.net/",
     "branch": "gh-pages"
   },
   "theme": {
